@@ -1,0 +1,12 @@
+{
+  "name": "001-rotas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
